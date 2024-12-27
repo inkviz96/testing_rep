@@ -25,6 +25,10 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+<<<<<<< HEAD
+=======
+    "git-widget-placeholder": "RM",
+>>>>>>> parent of 48d8d41 (Revert "ttt")
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
